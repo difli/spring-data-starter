@@ -19,3 +19,5 @@ dist
 # misc
 .DS_Store
 .factorypath
+
+src/main/resources/credentials.zip
